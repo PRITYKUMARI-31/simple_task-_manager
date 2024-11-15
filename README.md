@@ -43,8 +43,11 @@ Cloud Storage and Syncing: Integrate cloud storage options (e.g., Firebase) to s
 Recurring Tasks: Add support for recurring tasks to automatically reset deadlines for weekly or monthly tasks.
 Notifications and Reminders: Set up notification features to remind users of approaching deadlines or overdue tasks.
 ![Screenshot (62)](https://github.com/user-attachments/assets/e7724612-94c7-4d07-8e41-d41edd8ac90e)
+
 ![Screenshot (61)](https://github.com/user-attachments/assets/2800c630-8e6b-43c6-b0b5-120731fb5dd3)
+
 ![Screenshot (60)](https://github.com/user-attachments/assets/522f27da-c52e-43e7-b9df-dd42aa94b0dd)
+
 ![Screenshot (59)](https://github.com/user-attachments/assets/eccd2484-5edd-4a82-a3e7-58f9e43ab511)
 
 

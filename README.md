@@ -42,9 +42,10 @@ User Authentication: Implement user login functionality to allow personalized ta
 Cloud Storage and Syncing: Integrate cloud storage options (e.g., Firebase) to sync tasks across multiple devices and allow data backup.
 Recurring Tasks: Add support for recurring tasks to automatically reset deadlines for weekly or monthly tasks.
 Notifications and Reminders: Set up notification features to remind users of approaching deadlines or overdue tasks.
-![Screenshot (58)](https://github.com/user-attachments/assets/43faea94-4e89-4c80-938c-660b7827c943)
-![Screenshot (57)](https://github.com/user-attachments/assets/a7c1067a-75d8-4144-9f73-16d3dfc7e63f)
-![Screenshot (56)](https://github.com/user-attachments/assets/3f6e617b-b081-4bd0-a466-74a3f097d874)
-![Screenshot (55)](https://github.com/user-attachments/assets/b36db988-8634-459b-a22d-089b9213fcc6)
+![Screenshot (62)](https://github.com/user-attachments/assets/e7724612-94c7-4d07-8e41-d41edd8ac90e)
+![Screenshot (61)](https://github.com/user-attachments/assets/2800c630-8e6b-43c6-b0b5-120731fb5dd3)
+![Screenshot (60)](https://github.com/user-attachments/assets/522f27da-c52e-43e7-b9df-dd42aa94b0dd)
+![Screenshot (59)](https://github.com/user-attachments/assets/eccd2484-5edd-4a82-a3e7-58f9e43ab511)
+
 
 
